@@ -11,6 +11,12 @@ A collection of my favorite software engineering resources I've come across.
 | https://huemint.com/ | A generator that uses machine learning to create color palettes. |
 | https://coolors.co/  | Generate palettes by tapping the space bar to get new colors.    |
 
+### Gradients
+
+| Website                                                  | Description                                                  |
+| -------------------------------------------------------- |:------------------------------------------------------------ |
+| https://www.learnui.design/tools/gradient-generator.html | Create gradients without a gray dead zone ☠️™ in the middle. |
+
 ### Image Editing
 
 | Website                                       | Description                                                |
@@ -31,6 +37,31 @@ A collection of my favorite software engineering resources I've come across.
 | https://rsms.me/inter/                        | A free variable font designed for computer screens.    |
 | https://www.atipofoundry.com/                 | Unique free and 'pay what you want' fonts              |
 
+### Icons
+
+| Website              | Description                                                                          |
+| -------------------- |:------------------------------------------------------------------------------------ |
+| https://devicon.dev/ | A set of icons representing programming languages, designing, and development tools. |
+
+## Development Tools
+
+### CSS Tools
+
+| Website                                | Description                                                                 |
+| -------------------------------------- |:--------------------------------------------------------------------------- |
+| https://github.com/ruilisi/css-checker | c4checks your CSS styles for duplications to avoid redundantly or similar css |
+
+### Favicons
+
+| Website             | Description                                                                        |
+| ------------------- |:---------------------------------------------------------------------------------- |
+| https://favicon.io/ | Quickly generate your favicon from text, image, or choose from hundreds of emojis. |
+
+### SEO Tools
+
+| Website              | Description                                                                                                 |
+| -------------------- |:----------------------------------------------------------------------------------------------------------- |
+| https://metatags.io/ | Edit and experiment with your content then preview how your webpage will look on Google, Facebook, and more |
 
 ## Job Hunting Resources
 
@@ -39,6 +70,14 @@ A collection of my favorite software engineering resources I've come across.
 | Website                         | Description                                                   |
 |---------------------------------|:--------------------------------------------------------------|
 | https://www.powerthesaurus.org/ | A thesaurus of "power words" to increase your resume's pathos |
+
+## Freelancing Resources
+
+## Organization Tools
+
+| Website                   | Description                                                                             |
+| ------------------------- |:--------------------------------------------------------------------------------------- |
+| https://soloworkflow.com/ | A completely free project management, time tracking and invoicing tool for freelancers. |
 
 ## Self-Care and Keeping Healthy
 
