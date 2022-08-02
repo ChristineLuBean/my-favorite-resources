@@ -73,7 +73,7 @@ A collection of my favorite software engineering resources I've come across.
 
 ## Freelancing Resources
 
-## Organization Tools
+### Organization Tools
 
 | Website                   | Description                                                                             |
 | ------------------------- |:--------------------------------------------------------------------------------------- |
