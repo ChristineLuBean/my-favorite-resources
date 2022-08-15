@@ -69,10 +69,10 @@ A collection of my favorite software engineering resources I've come across.
 
 ### CSS Tools
 
-| Website                                   | Description                                                                  |
-| ----------------------------------------- |:---------------------------------------------------------------------------- |
-| https://github.com/ruilisi/css-checker    | Checks your CSS styles for duplications to avoid redundantly or similar css. |
-| https://min-max-calculator.9elements.com/ | A clamp() generator to make fluid layouts.                                   |
+| Website                                   | Description                                                                |
+| ----------------------------------------- |:-------------------------------------------------------------------------- |
+| https://github.com/ruilisi/css-checker    | Checks your CSS styles for duplications to avoid redundant or similar css. |
+| https://min-max-calculator.9elements.com/ | A clamp() generator to make fluid layouts.                                 |
 
 ### CSS Animations
 
