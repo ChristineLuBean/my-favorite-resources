@@ -6,10 +6,11 @@ A collection of my favorite software engineering resources I've come across.
 
 ### Color Palettes
 
-| Website              | Description                                                      |
-| ---------------------|:-----------------------------------------------------------------|
-| https://huemint.com/ | A generator that uses machine learning to create color palettes. |
-| https://coolors.co/  | Generate palettes by tapping the space bar to get new colors.    |
+| Website               | Description                                                              |
+| --------------------- |:------------------------------------------------------------------------ |
+| https://huemint.com/  | A generator that uses machine learning to create color palettes.         |
+| https://coolors.co/   | Generate palettes by tapping the space bar to get new colors.            |
+| https://primer.style/ | Create and maintain cohesive, consistent, and accessible color palettes. |
 
 ### Gradients
 
