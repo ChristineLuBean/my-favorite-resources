@@ -41,7 +41,7 @@ A collection of my favorite software engineering resources I've come across.
 ### Image Editing
 
 | Website                                       | Description                                                  |
-| --------------------------------------------- | :------------------------------------ ---------------------- |
+| --------------------------------------------- | :----------------------------------------------------------- |
 | https://baseline.is/tools/background-remover/ | An AI that deletes image backgrounds with one click.         |
 | https://cleanup.pictures/                     | Easily remove any unwanted objects, defects, people, text.   |
 | https://pfpmaker.com/                         | Make a "professional" profile picture from any photo.        |
