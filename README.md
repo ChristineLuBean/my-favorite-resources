@@ -12,6 +12,24 @@ A collection of my favorite software engineering resources I've come across.
 | https://learn-anything.xyz/ | Learn any topic.                                                                                                              |
 | https://roadmap.sh/         | Roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. |
 
+### Researching Tools
+
+| Website                          | Description                                                                                |
+| -------------------------------- |:------------------------------------------------------------------------------------------ |
+| https://videomentions.com/search | Search YouTube video audio to find videos that mention topics you want to find more about. |
+
+### Productivity Tools
+
+| Website                                                                                                   | Description                                                                              |
+| --------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------- |
+| https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh                   | Skip the silent parts and increase/decrease the speed of videos and audio files          |
+| https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en | Skip the filler in YouTube videos.                                                       |
+| https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp      | Read aloud the current web-page article with one click, using text to speech (TTS).      |
+| https://www.printfriendly.com/                                                                            | Make any web page print friendly.                                                        |
+| https://chrome.google.com/webstore/detail/onetab-plustab-manage-pro/lepdjbhbkpfenckechpdfohdmkhogojf      | Reduce tab clutter with one click to turn all the tabs into a link list you can revisit. |
+| https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh                    | Dark mode for every website.                                                             |
+
+
 ## Programming Language Resources
 
 ### JavaScript Books & References
@@ -20,7 +38,7 @@ A collection of my favorite software engineering resources I've come across.
 | ------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------- |
 | https://exploringjs.com/impatient-js/toc.html          | Makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible. |
 | https://github.com/getify/You-Dont-Know-JS             | A series of books diving deep into the core mechanisms of the JavaScript language.                                     |
-| https://github.com/dexteryy/spellbook-of-modern-webdev | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.                                         |
+| https://github.com/dexteryy/spellbook-of-modern-webdev | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.                                           |
 
 ## UX/UI Resources
 
@@ -34,9 +52,9 @@ A collection of my favorite software engineering resources I've come across.
 
 ### Gradients
 
-| Website                                                  | Description                                                  |
-| -------------------------------------------------------- |:------------------------------------------------------------ |
-| https://www.learnui.design/tools/gradient-generator.html | Create gradients without a gray dead zone ☠️™ in the middle. |
+| Website                                                  | Description                                                 |
+| -------------------------------------------------------- |:----------------------------------------------------------- |
+| https://www.learnui.design/tools/gradient-generator.html | Create gradients without a gray dead zone ☠️™ in the middle |
 
 ### Image Editing
 
@@ -104,9 +122,10 @@ A collection of my favorite software engineering resources I've come across.
 
 ### Organization Tools
 
-| Website                   | Description                                                                             |
-| ------------------------- |:--------------------------------------------------------------------------------------- |
-| https://soloworkflow.com/ | A completely free project management, time tracking and invoicing tool for freelancers. |
+| Website                                                    | Description                                                                             |
+| ---------------------------------------------------------- |:--------------------------------------------------------------------------------------- |
+| https://soloworkflow.com/                                  | A completely free project management, time tracking and invoicing tool for freelancers. |
+| https://chrome.google.com/webstore/detail/sortd-for-gmail/ | Turn your Gmail inbox into a kanban board                                               |
 
 ## Self-Care and Keeping Healthy
 
