@@ -14,9 +14,16 @@ A collection of my favorite software engineering resources I've come across.
 
 ### Researching Tools
 
-| Website                          | Description                                                                                |
-| -------------------------------- |:------------------------------------------------------------------------------------------ |
-| https://videomentions.com/search | Search YouTube video audio to find videos that mention topics you want to find more about. |
+| Website                                                                                          | Description                                                                                    |
+| ------------------------------------------------------------------------------------------------ |:---------------------------------------------------------------------------------------------- |
+| https://videomentions.com/search                                                                 | Search YouTube video audio to find videos that mention topics you want to find more about.     |
+| https://chrome.google.com/webstore/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj | Search for words in YouTube videos and jump directly to the respective timestamp in the video. |
+
+### Studying Tools
+
+| Website                                                                                              | Description                                                   |
+| ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------- |
+| https://chrome.google.com/webstore/detail/slid-youtube-screenshot-n/cgajiilhmpfemmdihjnodpibaffakjhj | Take time-stamped Youtube Summary Notes with 1-Click Capture. |
 
 ### Productivity Tools
 
