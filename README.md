@@ -39,10 +39,14 @@ A collection of my favorite software engineering resources I've come across.
 
 ## Programming Language Resources
 
+
+
+
 ### JavaScript Books & References
 
+
 | Website                                                | Description                                                                                                            |
-| ------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------- |
+|--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | https://exploringjs.com/impatient-js/toc.html          | Makes JavaScript less challenging to learn for newcomers, by offering a modern view that is as consistent as possible. |
 | https://github.com/getify/You-Dont-Know-JS             | A series of books diving deep into the core mechanisms of the JavaScript language.                                     |
 | https://github.com/dexteryy/spellbook-of-modern-webdev | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.                                           |
@@ -62,6 +66,12 @@ A collection of my favorite software engineering resources I've come across.
 | Website                                                  | Description                                                 |
 | -------------------------------------------------------- |:----------------------------------------------------------- |
 | https://www.learnui.design/tools/gradient-generator.html | Create gradients without a gray dead zone ☠️™ in the middle |
+
+### UX/UI Books & References
+
+| Website                         | Description                                                                                                       |
+| ------------------------------- |:----------------------------------------------------------------------------------------------------------------- |
+| https://colorandcontrast.com/#/ | A comprehensive guide for exploring and learning about the theory, science, and perception of color and contrast. |
 
 ### Image Editing
 
