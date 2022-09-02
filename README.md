@@ -2,7 +2,6 @@
 
 A collection of my favorite software engineering resources I've come across.
 
-
 ## General Education & Learning Resources
 
 ### Online Courses
@@ -47,6 +46,7 @@ A collection of my favorite software engineering resources I've come across.
 | https://github.com/dexteryy/spellbook-of-modern-webdev | A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.                                           |
 
 ### Regex Tools
+
 | Website                    | Description                                                                       |
 |----------------------------|:----------------------------------------------------------------------------------|
 | https://www.autoregex.xyz/ | Use artificial intelligence to translate back and forth between English and RegEx |
@@ -132,13 +132,40 @@ A collection of my favorite software engineering resources I've come across.
 | Website              | Description                                                                                                  |
 |----------------------|:-------------------------------------------------------------------------------------------------------------|
 | https://metatags.io/ | Edit and experiment with your content then preview how your webpage will look on Google, Facebook, and more. |
+
 ### Documentation Tools
 
 | Website            | Description                                                                                            |
 |--------------------|:-------------------------------------------------------------------------------------------------------|
 | https://readme.so/ | This simple editor helps you to add and customize all the sections you need for your project's readme. |
 
+## Cybersecurity
+
+### Cybersecurity Online Courses
+
+| Website                         | Description                                                                       |
+|---------------------------------|:----------------------------------------------------------------------------------|
+| https://academy.hackthebox.com/ | Free and paid courses to learn cybersecurity skills. I highly recommend this one. |
+
+### Capture the Flag
+
+| Website                                  | Description                                                                       |
+|------------------------------------------|:----------------------------------------------------------------------------------|
+| https://overthewire.org/wargames/bandit/ | A CTF game geared towards absolute beginners in order to teach the basics of CTF. |
+
+## OSINT
+
+| Website                                      | Description                                            |
+|----------------------------------------------|:-------------------------------------------------------|
+| https://inteltechniques.com/tools/index.html | Various search tools to aid in OSINT gathering online. |
+
 ## Job Hunting Resources
+
+### Guides, Tips, & Tricks
+
+| Website                      | Description                                    |
+|------------------------------|:------------------------------------------------|
+| https://50waystogetajob.com/ | 50 different tips that can help with your hunt |
 
 ### Resume
 
