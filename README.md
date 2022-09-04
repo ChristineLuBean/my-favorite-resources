@@ -161,10 +161,16 @@ A collection of my favorite software engineering resources I've come across.
 
 ## Job Hunting Resources
 
+### Tools
+
+| Website           | Description                                                                       |
+|-------------------|:----------------------------------------------------------------------------------|
+| https://huntr.co/ | Track your job applications and keep your job search organized, all in one place. |
+
 ### Guides, Tips, & Tricks
 
 | Website                      | Description                                    |
-|------------------------------|:------------------------------------------------|
+|------------------------------|:-----------------------------------------------|
 | https://50waystogetajob.com/ | 50 different tips that can help with your hunt |
 
 ### Resume
